@@ -44,7 +44,7 @@ Use the following labels to categorize and prioritize issues:
 |-------|-------|---------|
 | **design** | 🔴 Red | Design-related tasks and concepts |
 | **production** | 🔵 Blue | Production, manufacturing, and supplier tasks |
-| **marketing** | 🟡 Yellow | Marketing campaigns and promotional activities |
+| **marketing** | 🟡 Gold | Marketing campaigns and promotional activities |
 | **web** | 🟢 Green | Website updates and online presence |
 | **urgent** | 🟠 Orange | Time-sensitive tasks requiring immediate attention |
 | **idea** | 🟣 Purple | New ideas and concepts for consideration |
