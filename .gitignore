@@ -1,0 +1,45 @@
+# Fichiers de design et temporaires
+*.psd
+*.ai
+*.sketch
+*.xd
+*.fig
+*.figma
+*.indd
+
+# Fichiers Adobe
+*.psb
+*.pdd
+
+# Fichiers temporaires
+*.tmp
+*.temp
+*.bak
+*.swp
+*~
+
+# Fichiers système
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+Thumbs.db
+Desktop.ini
+
+# Dossiers temporaires
+temp/
+tmp/
+cache/
+
+# Fichiers de build
+dist/
+build/
+node_modules/
+
+# Fichiers confidentiels
+*.key
+*.pem
+secrets/
+.env
+.env.local
