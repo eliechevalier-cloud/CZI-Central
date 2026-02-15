@@ -1,0 +1,23 @@
+# Design Files
+*.psd
+*.PSD
+*.ai
+*.AI
+
+# Temporary Files
+*.tmp
+*.temp
+~*
+.DS_Store
+Thumbs.db
+
+# Backup Files
+*.bak
+*.backup
+*~
+
+# Editor Files
+.vscode/
+.idea/
+*.swp
+*.swo
